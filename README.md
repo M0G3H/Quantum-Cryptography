@@ -1,7 +1,6 @@
 # 🧠 A Strategic Analysis of Quantum Cryptography
 
-**Author:** Dr. Evelyn Reed  
-**Affiliation:** Institute for Advanced Cryptographic Research  
+**Author:** MGH    
 **License:** MIT  
 
 This project presents a detailed academic-style analysis titled **“A Strategic Analysis of Quantum Cryptography: PQC, QKD, and the Future of Digital Security.”**  

@@ -11,7 +11,7 @@ It explores the dual approach to securing digital infrastructure in the quantum 
 ## 🌐 Live Demo
 
 You can view this paper online (once you enable GitHub Pages):  
-👉 **https://yourusername.github.io/quantum-cryptography-analysis/**
+👉 **https://M0G3H.github.io/quantum-cryptography-analysis/**
 
 ---
 
@@ -43,4 +43,4 @@ You can view this paper online (once you enable GitHub Pages):
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/quantum-cryptography-analysis.git
+   git clone https://github.com/M0G3H/Quantum-Cryptography

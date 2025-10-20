@@ -1,7 +1,6 @@
 # 🧠 A Strategic Analysis of Quantum Cryptography
 
-**Author:** MGH    
-**License:** MIT  
+**Author:** MGH     
 
 This project presents a detailed academic-style analysis titled **“A Strategic Analysis of Quantum Cryptography: PQC, QKD, and the Future of Digital Security.”**  
 It explores the dual approach to securing digital infrastructure in the quantum era: **Post-Quantum Cryptography (PQC)** and **Quantum Key Distribution (QKD)**.
